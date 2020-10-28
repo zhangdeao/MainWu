@@ -6,3 +6,4 @@ Linux的优点，常见发行版本，Linux结构。
 第五章：
 什么是shell，shell脚本
 帮助命令：man,help,info.
+开发人员修改的内容
